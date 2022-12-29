@@ -9,7 +9,7 @@ Project structure:
 └── README.md
 ```
 
-[_compose.yaml_](compose.yaml)
+compose.yaml
 ```
 services:
   db:
@@ -58,7 +58,8 @@ e0884a8d444d        mysql:8.0.19        "docker-entrypoint.s…"   35 seconds ag
 
 Navigate to `http://localhost:80` in your web browser to access WordPress.
 
-![page](output.jpg)
+![image](https://user-images.githubusercontent.com/110657529/209980043-597915cf-da87-49ff-b866-031c10a75bbe.png)
+
 
 Stop and remove the containers
 
